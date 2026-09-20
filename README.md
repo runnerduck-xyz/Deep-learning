@@ -11,4 +11,4 @@ For now, it contains: `beginner projects`. It includes notebooks for:
 - image classification with a convolutional neural network
 - transfer learning with a pretrained image model
 - audio classification using spectrogram features
-- text classification with a small BERT model
+- text classification with a small BERT model .
